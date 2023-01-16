@@ -1,0 +1,14 @@
+/usr/share/codeblocks/templates/wizard/freeglut
+
+
+=====================================================
+
+1. Open Codeblocks. Go to File > New > Projects and this dialog should be showing with Freeglut Project:
+
+2. Give a name of the project as you see fit.
+
+3. Then, specify the location where the Freeglut is: /usr/share/codeblocks/templates/wizard/freeglut
+
+4. Go to sources, there should be a main.cpp file for test running
+
+5. Build and Run!
